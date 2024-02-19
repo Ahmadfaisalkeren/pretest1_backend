@@ -27,8 +27,7 @@ Start Aplikasi:
 php artisan serve
 npm run dev
 
-Register Akun Terlebih Dahulu
-setelah sukses maka akan redirect ke halaman dashboard
+lalu lakukan clone bagian frontend
 
 ```
 
